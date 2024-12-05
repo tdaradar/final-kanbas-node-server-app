@@ -1,0 +1,11 @@
+export default [
+    { "_id": "A101", "title": "Propulsion Assignment", "course": "RS101", "desc": "This assignment will focus propulsion and how rockets take off and will be available online", "points": "50", "due": "2024-05-13", "available": "2024-05-06" },
+    { "_id": "A102", "title": "Combustion Analysis", "course": "RS101", "desc": "This assignment will focus combustion and explosions and will be available online", "points": "50", "due": "2024-05-20", "available": "2024-05-13" },
+    { "_id": "A103", "title": "Nozzle Design Project", "course": "RS101", "desc": "This project will focus nozzle design and will be in teams and will be available online", "points": "100", "due": "2024-05-27", "available": "2024-05-20" },
+    { "_id": "A201", "title": "Aerodynamics Quiz", "course": "RS102", "desc": "This quiz is on aerodynamics and will be math heavy and will be available online", "points": "25", "due": "2024-05-17", "available": "2024-05-10" },
+    { "_id": "A202", "title": "Flow Analysis", "course": "RS102", "desc": "This assignment will focus flow analysis as well as liquids and will be available online", "points": "50", "due": "2024-05-24", "available": "2024-05-17" },
+    { "_id": "A203", "title": "Heating Analysis", "course": "RS102", "desc": "This assignment will focus heating analysis and will be available online", "points": "50", "due": "2024-05-31", "available": "2024-05-24" },
+    { "_id": "A301", "title": "Structural Design Task", "course": "RS103", "desc": "This task you will design a structure and will be available online", "points": "10", "due": "2024-05-13", "available": "2024-05-06" },
+    { "_id": "A302", "title": "Orbital Calculations", "course": "RS103", "desc": "This assignment has math and calculations and will be available online", "points": "50", "due": "2024-05-20", "available": "2024-05-13" },
+    { "_id": "A303", "title": "Systems Engineering Exam", "course": "RS103", "desc": "This exam will focus systems engineering and will be available online", "points": "100", "due": "2024-05-26", "available": "2024-05-25" }
+  ];
