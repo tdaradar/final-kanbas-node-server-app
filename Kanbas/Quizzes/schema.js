@@ -11,7 +11,7 @@ const schema = new mongoose.Schema(
     type: String,
     group: String,
     shuffle: Boolean,
-    time_limit: Number,
+    time_limit: String,
     attempts: Number,
     multiple_attempts: Boolean,
     view_responses: Boolean,
